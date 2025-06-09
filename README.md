@@ -1,4 +1,4 @@
-# Customer Churn Prediction using ANN
+# Customer Churn Prediction using Artificial Neural Network
 
 This project uses a neural network to predict customer churn — whether a customer is likely to stop using a service — based on their account and service usage data.
 
